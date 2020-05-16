@@ -2,7 +2,6 @@ import React from 'react';
 import {Users} from './containers/Users';
 import {Login} from './containers/Login';
 import './App.css';
-import 'element-theme-default';
 import {
   BrowserRouter as Router,
   Switch,
