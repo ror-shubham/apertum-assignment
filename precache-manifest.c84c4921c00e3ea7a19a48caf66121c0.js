@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6def606e9cbcb2554af7ccde817ed95",
+    "revision": "fa9fa1b87b7e351983a2bc48ef297749",
     "url": "/apertum-assignment/index.html"
   },
   {
-    "revision": "74f421f9bfa24622dd0b",
+    "revision": "55a4b2eae4523fe5a77b",
     "url": "/apertum-assignment/static/css/main.a4b18d9f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/apertum-assignment/static/js/2.03605e76.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "74f421f9bfa24622dd0b",
-    "url": "/apertum-assignment/static/js/main.ea3e2483.chunk.js"
+    "revision": "55a4b2eae4523fe5a77b",
+    "url": "/apertum-assignment/static/js/main.582a4f2f.chunk.js"
   },
   {
     "revision": "3e279bc660b914425515",
