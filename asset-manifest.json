@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/apertum-assignment/static/css/main.a4b18d9f.chunk.css",
-    "main.js": "/apertum-assignment/static/js/main.582a4f2f.chunk.js",
-    "main.js.map": "/apertum-assignment/static/js/main.582a4f2f.chunk.js.map",
+    "main.js": "/apertum-assignment/static/js/main.258c283e.chunk.js",
+    "main.js.map": "/apertum-assignment/static/js/main.258c283e.chunk.js.map",
     "runtime-main.js": "/apertum-assignment/static/js/runtime-main.4b544869.js",
     "runtime-main.js.map": "/apertum-assignment/static/js/runtime-main.4b544869.js.map",
-    "static/js/2.03605e76.chunk.js": "/apertum-assignment/static/js/2.03605e76.chunk.js",
-    "static/js/2.03605e76.chunk.js.map": "/apertum-assignment/static/js/2.03605e76.chunk.js.map",
+    "static/js/2.b8ce57a2.chunk.js": "/apertum-assignment/static/js/2.b8ce57a2.chunk.js",
+    "static/js/2.b8ce57a2.chunk.js.map": "/apertum-assignment/static/js/2.b8ce57a2.chunk.js.map",
     "index.html": "/apertum-assignment/index.html",
-    "precache-manifest.c84c4921c00e3ea7a19a48caf66121c0.js": "/apertum-assignment/precache-manifest.c84c4921c00e3ea7a19a48caf66121c0.js",
+    "precache-manifest.4a9495b0feba1c97e4374bf8880f804a.js": "/apertum-assignment/precache-manifest.4a9495b0feba1c97e4374bf8880f804a.js",
     "service-worker.js": "/apertum-assignment/service-worker.js",
     "static/css/main.a4b18d9f.chunk.css.map": "/apertum-assignment/static/css/main.a4b18d9f.chunk.css.map",
-    "static/js/2.03605e76.chunk.js.LICENSE.txt": "/apertum-assignment/static/js/2.03605e76.chunk.js.LICENSE.txt"
+    "static/js/2.b8ce57a2.chunk.js.LICENSE.txt": "/apertum-assignment/static/js/2.b8ce57a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4b544869.js",
-    "static/js/2.03605e76.chunk.js",
+    "static/js/2.b8ce57a2.chunk.js",
     "static/css/main.a4b18d9f.chunk.css",
-    "static/js/main.582a4f2f.chunk.js"
+    "static/js/main.258c283e.chunk.js"
   ]
 }
